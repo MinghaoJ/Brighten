@@ -1,4 +1,4 @@
-package ca.uwaterloo.deltahacks;
+package ca.uwaterloo.Brighten;
 
 import java.util.Locale;
 

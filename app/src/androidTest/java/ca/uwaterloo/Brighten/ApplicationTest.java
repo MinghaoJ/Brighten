@@ -1,4 +1,4 @@
-package ca.uwaterloo.deltahacks;
+package ca.uwaterloo.Brighten;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

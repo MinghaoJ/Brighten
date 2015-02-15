@@ -1,4 +1,4 @@
-package ca.uwaterloo.deltahacks;
+package ca.uwaterloo.Brighten;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
